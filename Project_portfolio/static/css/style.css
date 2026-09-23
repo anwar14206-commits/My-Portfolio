@@ -107,3 +107,7 @@ footer{
     color: #666;
     margin-top: 40px;
 }
+.about{
+    display: flex;
+    justify-content: space-between;
+}
